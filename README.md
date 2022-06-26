@@ -25,9 +25,12 @@ Here are some ideas to get you started:
 </a>
 -->
 
-<a href="xrt8363@gmail.com">
+<a href="mailto:xrt8363@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
+
+
+
 <!-- 
 <a href="https://leetcode.com/lovelybuggies/">
   <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
