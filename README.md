@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to LøvelyBuggies's Hut 👋
-
 <!--<a href="ninomyemail@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
@@ -46,11 +44,9 @@ Hi, I'm Nino, a Chinese software developer. I'm an open-source professional and 
 
 **Current Status Quo**
 
-- 🎓   Studying at Columbia.
-- 💻   Working on [Hist](https://github.com/scikit-hep/hist).
-- 🌱   Learning Python.
-- ⭐️   Interested in DRL.
-- 📭   [Email](ninomyemail@gmail.com) to reach me :)
+- 🎓   Incoming student at NYU Tandon School of Engineering. 
+- 🌱   Learning Python, C++.
+- ⭐️   Interested in Machine Learning.
+- 📭   [Email](xrt8363@gmail.com) to reach me :)
 
-<!--![LovelyBuggies's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=false&text_color=333333)-->
 
