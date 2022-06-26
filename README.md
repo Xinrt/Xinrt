@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<a href="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggrqy7om28j30j80omjtq.jpg">
-  <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+<a href="https://s1.ax1x.com/2022/06/26/jAMFFf.jpg">
+  <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
--->
+
+<!--
 <a href="https://www.linkedin.com/in/%E7%A1%95-%E5%88%98-073728144/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
+-->
+
 <a href="xrt8363@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
@@ -47,14 +49,13 @@ Hi, I'm Xinran Tang 😉
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m an incomming student at NYU Tandon School of Engineering.
+- 👨🏻‍💻 I’m an incomming master student at NYU Tandon School of Engineering major in CE.
 - 🌱 I’m currently learning C++ and Python.
-- ✨ My research interests are with Machine Learning, etc.
-<!-- 💼 I’m pursuing a Ph.D. degree or R.A. position. -->
+- ✨ My research interests are with Machine Learning, Computer Security, etc.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via xrt8363@gmail.com to reach me.
 
-
+<!-- 💼 I’m pursuing a Ph.D. degree or R.A. position. -->
 
 
 
