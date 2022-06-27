@@ -31,11 +31,12 @@ Here are some ideas to get you started:
 
 
 
-<!-- 
-<a href="https://leetcode.com/lovelybuggies/">
+
+<a href="https://leetcode.com/tangxinran/">
   <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
 
+<!-- 
 <a href="https://www.kaggle.com/ninolau">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
